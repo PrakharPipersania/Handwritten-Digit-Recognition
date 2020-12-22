@@ -5,11 +5,10 @@ This project was implemented in R and executed by applying KNN algorithm with re
 ## Overview
 The task of handwritten digit recognition, using a classifier, has great importance and use such as – online handwriting recognition on computer tablets, recognize zip codes on mail for postal mail sorting, processing bank check amounts, etc. There are different challenges faced while attempting to solve this problem. The handwritten digits are not always of the same size, thickness, or orientation and position relative to the margins. My goal was to implement a pattern classification method to recognize the handwritten digits provided in the MINIST data set of images of hand written digits (0‐9). Finally the uniqueness and variety in the handwriting of different individuals also influences the formation and appearance of the digits.  
 
-![image](https://github.com/PrakharPipersania/Handwritten-Digit-Recognition/Images/Smaple-MNIST-Dataset.png)
-Fig. Sample digits used for training the classifier  
-
-![image](https://github.com/PrakharPipersania/Handwritten-Digit-Recognition/Images/Print_Digit_Output.png)
-</br> Given a n*n greyscale image you can use Print_Digit Function to find Image Label & Pixels
+<img src="https://github.com/PrakharPipersania/Handwritten-Digit-Recognition/blob/main/Images/Smaple-MNIST-Dataset.png" height="250" width="250">
+->Sample digits used for training the classifier  
+</br></br><img src="https://github.com/PrakharPipersania/Handwritten-Digit-Recognition/blob/main/Images/Print_Digit_Output.png" height="300" width="375">
+->Given a (NxN) greyscale image Print_Digit Function can used to find the Image Label & Pixels
 
 ## Problem Statement
 Given a set of greyscale isolated numerical images taken from MNIST database. 
